@@ -1,4 +1,4 @@
-# :black_joker: uno multiplayer web app
+<!-- # :black_joker: uno multiplayer web app
 ### this is an uno multiplayer web application that can support theoretically infinite number of players at the same game so that you can enjoy the beauty of uno with your friends without leaving any one behind
 
 #### the game link: https://uno-multiplayer-nodejs.herokuapp.com/
@@ -64,3 +64,4 @@
 
 #### special thanks
 thanks to my friend <a href="https://www.linkedin.com/in/ziad-sameh-658654170/" target="_blank">ziad</a> for helping me in the early tesing stages of the game
+ -->
